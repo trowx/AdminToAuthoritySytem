@@ -13,4 +13,4 @@ Inject DLL to Winlogon for elevating process to NT Authority/System privileges a
 # References
 
 * https://github.com/bytecode77/slui-file-handler-hijack-privilege-escalation
-* https://github.com/ZeroM3m0ry/Dll-Injector
+* https://github.com/Zer0Mem0ry/ManualMap
